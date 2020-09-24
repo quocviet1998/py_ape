@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py_ape",
-    version="0.0.4",
-    author="VietPQ - ToiNV",
-    author_email="viet20304@gmail.com",
+    version="0.0.5",
+    author="VietPQ,ToiNV,NganNTB",
+    author_email="viet20304@gmail.com,dreamsimple2100@gmail.com,nganinfo@gmail.com",
     description="A small package for handling matching data based on BigGorilla package",
     long_description=long_description,
     long_description_content_type="text/markdown",
