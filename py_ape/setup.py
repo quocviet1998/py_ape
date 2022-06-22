@@ -20,7 +20,7 @@ setuptools.setup(
     ],
     install_requires=[
       'pandas==0.25.1',
-      'numpy==1.16.2',
+      'numpy==1.22.0',
       'scikit-learn==0.19.1',
       'flexmatcher',
       'py_stringsimjoin',
